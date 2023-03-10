@@ -1,0 +1,5 @@
+Font: Agenncy FB
+Color: White
+Size: 14
+Letter-spacing: kritan 1
+Font-Weight: Bold
